@@ -1,18 +1,13 @@
-# The Blue Moon Branch
+# Novalica's Blue Moon Edited.
 
-The Blue Moon Branch is an enhanced fork of [Nova Sector](https://github.com/NovaSector/NovaSector).
+This is an edit made by Novalica which is a fork of [Bluemoon by Floofies](https://github.com/Floofies/NovaSector). Blue Moon Branch is an enhanced fork of [Nova Sector](https://github.com/NovaSector/NovaSector).
 
 **Please note that the contents of this repository are not suitable for people under the age of 18.**
 
-If you enjoy this version of the game, then please consider a donation to help keep our hardware and software development efforts going!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bluemoonclub)
+## Note
 
-## Notable Improvements
-
-- Over 144 unique enhancements to the game!
-- More enhancements added regularly.
-- Increased player freedom and unrestricted gameplay.
+I am not a coder so a lot of the contents of this fork may be lower quality than what you expect. This is a fork where I can practice what I need to without breaking anything at large. Anything here may be unstable or at risk of corruption later down the line. [Here be Dragons.](https://en.wikipedia.org/wiki/Here_be_dragons)
 
 ## How To Contribute
 
