@@ -82,4 +82,4 @@ echo -e "${PURPLE}[${GREEN}---${PURPLE}]${RS} ${GREEN}Override complete!${RS}"
 echo -e "${PURPLE}[${GREEN}---${PURPLE}]${RS} ${GREEN}Starting DreamDaemon ...${RS}"
 echo -e "${PURPLE}[${GREEN}---${PURPLE}]${RS} ${YELLOW}Enjoy! <3${RS}"
 cd /tgstation
-DreamDaemon tgstation.dmb -port 21158 -trusted -close -verbose
+DreamDaemon tgstation.dmb -port 21165 -trusted -close -verbose
